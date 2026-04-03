@@ -1,0 +1,9 @@
+{
+  "name": "Clock App",
+  "short_name": "Clock",
+  "display": "standalone",
+  "orientation": "portrait",
+  "start_url": "/",
+  "theme_color": "#020617",
+  "background_color": "#020617"
+}
